@@ -8,16 +8,14 @@ sidebar_position: 3
 
 ### Обязательные
 
-- [kotlinlang docs - Coroutines guide](https://kotlinlang.org/docs/coroutines-guide.html) 
-  - [Shared mutable state and concurrency](https://kotlinlang.org/docs/shared-mutable-state-and-concurrency.html)
+- [kotlinlang docs - Coroutines guide](https://kotlinlang.org/docs/coroutines-guide.html)
+- [Shared mutable state and concurrency](https://kotlinlang.org/docs/shared-mutable-state-and-concurrency.html)
 - [kotlinlang docs - Immutability in Kotlin/Native](https://kotlinlang.org/docs/native-immutability.html)
 - [kotlinlang docs - Concurrency in Kotlin/Native](https://kotlinlang.org/docs/native-concurrency.html) 
 - [kotlinlang docs - Concurrent mutability](https://kotlinlang.org/docs/mobile/concurrent-mutability.html)
-- [Android Crew #4. Все, что нужно знать о корутинах. Алексей Панов](https://www.youtube.com/watch?v=icAz5VPAJp4)
 - [Kotlinx.coroutines - Sharing and background threads on Kotlin/Native](https://github.com/Kotlin/kotlinx.coroutines/blob/native-mt/kotlin-native-sharing.md)
 - [Многопоточность и Kotlin в Яндекс.Картах: как не допустить падения новых фич на iOS](https://habr.com/ru/company/yandex/blog/575846/)
 - [KotlinConf 2019: Kotlin Native Concurrency Explained by Kevin Galligan](https://www.youtube.com/watch?v=oxQ6e1VeH4M)
-- [Suspend, Intercept, Resume - три шага асинхронщины / Ильмир Усманов](https://www.youtube.com/watch?v=_p4HD2Hc2CA)
 
 ### Дополнительные
 
